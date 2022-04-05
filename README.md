@@ -1,4 +1,8 @@
 # UofM-FinTech-Project-2
+<<<<<<< HEAD
+=======
+
+>>>>>>> ec3f962649c654c5113d9e85755873ef6cab4a2a
 ### Abib Ajibola
 ### Latoya Springer
 ### Timothy Wardlow
@@ -12,6 +16,9 @@
 ## Data Sources
 * https://finance.yahoo.com (NVDA & COKE)
 * https://www.nasdaq.com/market-activity/index/spx/historical (S&P 500)
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> ec3f962649c654c5113d9e85755873ef6cab4a2a

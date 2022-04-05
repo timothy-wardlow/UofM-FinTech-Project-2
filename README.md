@@ -1,13 +1,12 @@
 # UofM-FinTech-Project-2
-<<<<<<< HEAD
 ### Abib Ajibola
 ### Latoya Springer
 ### Timothy Wardlow
 
 ## Project Description / Outline
-* Create two algorithmic trading models with differing strategies
-* Run two stocks that vary in volatility (NVDA, COKE) and one index (S&P 500) through the trading algorithms
-* Compare the performance of the two trading algorithms versus just buying and holding to determine which strategy performs best
+* Create two machine learning trading algorithms using SVM and another classification model (TBD) to predict price movement (or to predict trading signal)
+* Two stocks that vary in volatility (NVDA, COKE) and one index (S&P 500)
+* Compare the two machine learning trading algorithms to determine which strategy performs best
 
 
 ## Data Sources
@@ -16,9 +15,3 @@
 
 
 
-=======
-
-### Abib Ajibola 
-### Latoya Springer
-### Timothy Wardlow
->>>>>>> b017e98626caad3c9af09cfc5ccd3ee84372c791

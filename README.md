@@ -13,4 +13,7 @@
 ## Data Sources
 * https://finance.yahoo.com (NVDA & COKE)
 * https://www.nasdaq.com/market-activity/index/spx/historical (S&P 500)
+<<<<<<< HEAD
 
+=======
+>>>>>>> c729f49a2d5cc552eb3de7d73623eb5f3c888dc7
